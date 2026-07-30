@@ -1,5 +1,4 @@
-print "hello world";
-print 1 + 2;
-print 10 < 15;
-print true;
-print false;
+var a = 10;
+var b = 20;
+
+print a + b;
